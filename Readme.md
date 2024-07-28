@@ -4,8 +4,8 @@ This Chrome extension automates the process of attempting quizzes and reading ar
 
 ## Features
 
--   Automatically attempts all quiz questions by selecting random options ( note: practice questions are not required to be correct to get the certificate).
--   Automatically scrolls through articles and clicks the required buttons.
+- Automatically attempts all quiz questions by selecting random options ( note: practice questions are not required to be correct to get the certificate).
+- Automatically scrolls through articles and clicks the required buttons.
 
 ## Installation
 
@@ -21,10 +21,10 @@ This Chrome extension automates the process of attempting quizzes and reading ar
 
 ## Files
 
--   `background.js`: Contains background scripts for the extension.
--   `content.js`: Contains the main logic for automating quizzes and articles.
--   `manifest.json`: Configuration file for the Chrome extension.
--   `images/`: Directory containing icons for the extension.
+- `background.js`: Contains background scripts for the extension.
+- `content.js`: Contains the main logic for automating quizzes and articles.
+- `manifest.json`: Configuration file for the Chrome extension.
+- `images/`: Directory containing icons for the extension.
 
 ## Author
 
